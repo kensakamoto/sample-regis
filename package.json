@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kensakamoto/sample-regis/issues"
   },
-  "homepage": "https://github.com/kensakamoto/sample-regis#readme"
+  "homepage": "https://github.com/kensakamoto/sample-regis#readme",
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ }
 }
